@@ -1,0 +1,5 @@
+[30-Aug-2022 13:24:33 Africa/Nairobi] PHP Notice:  Undefined index: resource in /home/techsava/rivercourt.techsavanna.technology/modules/api.php on line 4
+[11-Sep-2022 00:54:40 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/rivercourt.techsavanna.technology/modules/api.php on line 76
+[11-Sep-2022 00:54:46 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/rivercourt.techsavanna.technology/modules/api.php on line 76
+[11-Sep-2022 00:55:12 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/rivercourt.techsavanna.technology/modules/api.php on line 76
+[11-Sep-2022 14:58:02 Africa/Nairobi] PHP Fatal error:  Call to a member function format() on boolean in /home/techsava/rivercourt.techsavanna.technology/modules/defaultreports.php on line 156
